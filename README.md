@@ -1,3 +1,3 @@
-# react-rdy5pb
+# Tax-o-tron
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-rdy5pb)
+A tax calculator built using React JS for the 2020-2021 business year of Australia
